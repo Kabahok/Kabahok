@@ -1,6 +1,4 @@
-```JavaScript
-#console.log(`Hei my friend Lets get acquainted :)`)
-```
+# `Hei my friend Lets get acquainted :)`
 ____
 
 ## A litle about me
