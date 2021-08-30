@@ -1,5 +1,5 @@
 ```JavaScript
-console.log(`Hei my friend) Lets get acquainted :)`)
+#console.log(`Hei my friend Lets get acquainted :)`)
 ```
 ____
 
