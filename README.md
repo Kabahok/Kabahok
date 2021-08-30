@@ -2,7 +2,7 @@
 ____
 
 ## A litle about me
-- I am Front-end developer
+- I am `Front-end developer`
 - I am learnig something new all the time
 - I get pleasure from writing code
 - I like to play the guitar
