@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hei my friend) Lets get acquainted :)
+____
 
-<!--
-**Kabahok/Kabahok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A litle about me
+- I am Front-end developer
+- I am learnig something new all the time
+- I get pleasure from writing code
+- I like to play the guitar
 
-Here are some ideas to get you started:
+____
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My technology stack
+- HTML/CSS
+- SASS/SCSS/LESS
+- JavaScript
+- Angular/React
+- Gulp/Webpack
+
+## A litle bit about of my details work
+I am a frontend developer, developing the visual part of the pages. My main specification in this direction is the implementation of logic, that is, writing scripts for the functionality of a website/web application in JavaScript and the Angular framework
