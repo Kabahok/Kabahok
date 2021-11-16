@@ -2,7 +2,7 @@
 ____
 
 ## A litle about me
-- I am `Front-end developer`
+- I am `Front-end developer and beginner java developer`
 - I am learnig something new all the time
 - `I get pleasure from writing code`
 - I like to play the guitar
@@ -13,8 +13,10 @@ ____
 - HTML/CSS
 - SASS/SCSS/LESS
 - `JavaScript`
-- `Angular/React`
+- `Angular`
 - Gulp/Webpack
+- `Java`
 
-## A litle bit about of my details work
-`I am a frontend developer, developing the visual part of the pages. My main specification in this direction is the implementation of logic, that is, writing scripts for the functionality of a website/web application in JavaScript and the Angular framework`
+## a little bit about my training
+`I am engaged in the front-end part of websites
+I am currently studying java and diving into the back-end of web applications`
