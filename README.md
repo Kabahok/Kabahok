@@ -21,4 +21,7 @@
 ![TestContainers](https://img.shields.io/badge/TestContainers-16B4E2?style=flat&logo=testcontainers&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-4B42AC?style=flat&logo=liquibase&logoColor=white)
 
+# My projects 
+[List of projects](https://github.com/Kabahok/projects/blob/main/README.md)
+
 
